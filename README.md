@@ -18,3 +18,5 @@
    
 5. Run from inside the TMDB directory
    java -cp dependencies/json.jar:dependencies/mysql-connector-java.jar:tmdb.jar Populate
+
+tmdb.sql to import : [https://github.com/mkripa/data225-lab1/tree/main](https://drive.google.com/drive/u/0/folders/1iUlkCjs1KXc-u3F6yfGE4T7JbfX37IOT)
